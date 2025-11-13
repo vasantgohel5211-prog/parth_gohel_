@@ -8,7 +8,7 @@ const Hero: React.FC = () => {
       <div className="container mx-auto px-6 text-center">
         <div className="flex flex-col items-center">
           <img
-            src="https://github.com/vasantgohel5211-prog/parth_gohel_/blob/main/p1.jpeg?raw=true"
+            src="https://github.com/vasantgohel5211-prog/parth_gohel_/blob/main/p1.jpg?raw=true"
             alt="Parth Sanjaybhai Gohel"
             className="w-48 h-48 rounded-full border-4 border-cyan-400 object-cover shadow-xl mb-6"
           />
